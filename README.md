@@ -1,5 +1,4 @@
-[![MasterHead](https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/11/02235040/how-to-become-a-mobile-app-developer.png0](https://narikimm.io)
-
+[![MasterHead](https://i.pinimg.com/1200x/49/fe/3f/49fe3fd09fa5e5e92d6b9e9e0431b6d5.jpg)](https://narikimm.io)
 <h1 align="center">Hi 👋, I'm Irina Kim</h1>
 <h3 align="center">A passionate IOS application developer from Russia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn2.vectorstock.com/i/1000x1000/51/16/media-developer-female-in-office-vector-30165116.jpg">
