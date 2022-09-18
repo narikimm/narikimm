@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/1200x/49/fe/3f/49fe3fd09fa5e5e92d6b9e9e0431b6d5.jpg)](https://narikimm.io)
 <h1 align="center">Hi 👋, I'm Irina Kim</h1>
 <h3 align="center">A passionate IOS application developer from Russia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn2.vectorstock.com/i/1000x1000/51/16/media-developer-female-in-office-vector-30165116.jpg">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/tired-overworked-secretary-accountant-working-laptop-near-pile-folders-throwing-papers-vector-illustration-stress-work-workaholic-busy-office-employee-concept_74855-13264.jpg?w=2000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narikimm&label=Profile%20views&color=0e75b6&style=flat" alt="narikimm" /> </p>
 
