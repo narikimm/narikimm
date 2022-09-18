@@ -1,4 +1,4 @@
-[![MasterHead](
+[![MasterHead](https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/11/02235040/how-to-become-a-mobile-app-developer.png0](https://narikimm.io)
 
 <h1 align="center">Hi 👋, I'm Irina Kim</h1>
 <h3 align="center">A passionate IOS application developer from Russia</h3>
